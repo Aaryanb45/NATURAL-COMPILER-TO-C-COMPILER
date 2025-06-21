@@ -79,8 +79,13 @@ Now, you can start converting Python code into Java using the Error-Resilient Tr
 
 If you have any questions, suggestions, or issues, feel free to connect:
 
-📧 Email: aryanbansal182004@gmail.com
-💻 GitHub: NATURAL-COMPILER-TO-C-COMPILER Repo
-🔗 LinkedIn: https://www.linkedin.com/in/aryan-bansal-689a41248/
+## 📩 Contact the Developer
+
+If you have any questions, suggestions, or issues, feel free to connect:
+
+📧 Email: [aryanbansal182004@gmail.com](mailto:aryanbansal182004@gmail.com)  
+💻 GitHub: [NATURAL-COMPILER-TO-C-COMPILER Repo](https://github.com/Aryanbansal45r4/NL-to-CPP-Compiler)  
+🔗 LinkedIn: [https://www.linkedin.com/in/aryan-bansal-689a41248/](https://www.linkedin.com/in/aryan-bansal-689a41248/)
+
 
 
