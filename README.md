@@ -42,24 +42,21 @@ Open your terminal or command prompt and run:
 
 ```bash
 git clone https://github.com/Aryanbansal45r4/NL-to-CPP-Compiler.git
-```
+
 
 ### Step 2: Navigate to the Project Directory
+```bash
 
 cd NL-to-CPP-Compiler
 
-### Step 3: Open the Project in Your Editor
-
+Step 3: Open the Project in Your Editor
 code .
 
-### Step 4: Compile the Main Code (If C++ Based UI)
-
+Step 4: Compile the Main Code (If C++ Based UI)
 g++ -std=c++17 -o compiler main.cpp
 
-### Step 5: Run the Compiler
-
+Step 5: Run the Compiler
 ./compiler
-
 ## 📁 File Structure
 
 💡 Sample Instruction
