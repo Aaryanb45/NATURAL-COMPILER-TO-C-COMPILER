@@ -8,7 +8,7 @@ It also provides syntax correction, performance suggestions, inline documentatio
 
 ---
 
-##Features
+## Features
 
 - **Intent Detection**: Understands commands like "create loop", "define variable", or "make function".
 - **Accurate Code Generation**: Converts natural language to clean and functional C++ code.
