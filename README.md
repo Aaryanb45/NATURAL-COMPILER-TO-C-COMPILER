@@ -1,85 +1,86 @@
-# 🧠 Natural Language to C++ Code Compiler
+# Natural Language to C++ Code Compiler
 
 ## Overview
 
-The **Natural Language to C++ Code Compiler** is a smart tool that translates plain English programming instructions into valid, working C++ code. It identifies the user's intent, validates input, generates proper C++ code structures (like loops, conditionals, functions), and even allows execution. It also provides error feedback, performance suggestions, and the option to reverse code into pseudocode for learning purposes.
+The **Natural Language to C++ Code Compiler** is an intelligent tool that translates plain English programming instructions into valid, executable C++ code. It captures user intent, analyzes instructions, and generates syntactically correct and well-formatted C++ structures such as loops, conditionals, variables, and functions.
 
-This compiler aims to make C++ coding simpler for beginners, educators, and developers by eliminating syntax complexity and allowing logic-focused development.
-
----
-
-## ✨ Features
-
-- ✅ **Intent Detection**: Understands if the user wants to create a loop, declare a variable, define a function, etc.
-- 🛠️ **Code Generation**: Generates accurate, readable, and formatted C++ code.
-- 🧠 **Syntax Correction**: Detects and auto-fixes basic syntactic issues before compilation.
-- 🔁 **Reverse Mode**: Converts C++ code back into pseudocode for easy learning.
-- 📄 **Documentation Generator**: Automatically creates inline documentation.
-- 📈 **Performance Analyzer**: Suggests improvements and flags inefficient code.
-- ⚠️ **Error Logger**: Logs and reports all issues and corrections.
-- 💬 **Examples & Help**: Offers real-time help, examples, and manual support.
-- 🌍 **Language-Ready**: Designed for future support of additional programming languages.
+It also provides syntax correction, performance suggestions, inline documentation, and a reverse feature to convert C++ code back to pseudocode, making it ideal for both learning and development.
 
 ---
 
-## 🖥️ System Requirements
+##Features
 
-- **Operating System**: Windows, Linux, or macOS  
-- **Compiler**: GCC (for compiling generated C++ code)  
-- **C++ Version**: C++17 or higher  
-- **Java (optional)**: For future GUI integration  
-- **Python 3 (optional)**: If used for NLP preprocessing (experimental)
+- **Intent Detection**: Understands commands like "create loop", "define variable", or "make function".
+- **Accurate Code Generation**: Converts natural language to clean and functional C++ code.
+- **Syntax Correction**: Detects and auto-fixes common issues before compiling.
+- **Reverse Mode**: Transforms C++ code into pseudocode for easy understanding.
+- **Inline Documentation**: Generates helpful comments alongside generated code.
+- **Performance Suggestions: Flags inefficient code and suggests improvements.
+- **Error Logging**: Captures and logs all issues in the background.
+- **Future Language Support**: Designed to support more programming languages.
 
 ---
 
-## 🛠️ Installation Guide
+## System Requirements
 
-Follow these steps to install and run the Natural Language to C++ Compiler:
+- **Operating System**: Windows, Linux, macOS
+- **C++ Compiler**: GCC supporting C++17 or higher
+- **Code Editor**: VS Code or any IDE
+---
+
+## Installation Guide
+
+Follow the steps below to install and run the Natural Language to C++ Code Compiler:
 
 ### Step 1: Clone the Repository
 
-Open your terminal or command prompt and run:
+Open your terminal or command prompt and run the following command to clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/Aryanbansal45r4/NL-to-CPP-Compiler.git
+git clone https://github.com/Aaryanb45/NATURAL-COMPILER-TO-C-COMPILER.git
+```
 
+### Step 2: Navigate to the Project Folder
 
-### Step 2: Navigate to the Project Directory
+Once the cloning process is complete, navigate into the project directory:
+
 ```bash
-
 cd NL-to-CPP-Compiler
+```
 
-Step 3: Open the Project in Your Editor
+### Step 3: Open the Project in a Code Editor
+
+You can open the folder in your preferred code editor, such as VS Code:
+
+```bash
 code .
+```
 
-Step 4: Compile the Main Code (If C++ Based UI)
+### Step 4: Compile the Java Files
+
+Before running the transpiler, compile all Java files using the following command:
+
+```
 g++ -std=c++17 -o compiler main.cpp
+```
 
-Step 5: Run the Compiler
+### Step 5: Run the Compiler UI
+
+After successful compilation, start the transpiler's user interface by running:
+
+```
 ./compiler
-## 📁 File Structure
 
-💡 Sample Instruction
+```
 
-## Input:
+Now, you can start converting Python code into Java using the Error-Resilient Transpiler!
 
--Define a function called sum that takes two integers and returns their sum
--Generated Output:
+### Contact the Developer
 
-int sum(int a, int b) {
-    return a + b;
-}
-
-## 📨 Contact the Developer
-
-If you have any queries, suggestions, or contributions, feel free to reach out:
+If you have any questions, suggestions, or issues, feel free to connect:
 
 📧 Email: aryanbansal182004@gmail.com
-💻 GitHub: NL-to-CPP-Compiler Repo
-🔗 LinkedIn: Aryan Bansal
-
-
-
-
+💻 GitHub: NATURAL-COMPILER-TO-C-COMPILER Repo
+🔗 LinkedIn: https://www.linkedin.com/in/aryan-bansal-689a41248/
 
 
