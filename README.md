@@ -42,3 +42,47 @@ Open your terminal or command prompt and run:
 
 ```bash
 git clone https://github.com/Aryanbansal45r4/NL-to-CPP-Compiler.git
+```
+
+### Step 2: Navigate to the Project Directory
+
+cd NL-to-CPP-Compiler
+
+### Step 3: Open the Project in Your Editor
+
+code .
+
+### Step 4: Compile the Main Code (If C++ Based UI)
+
+g++ -std=c++17 -o compiler main.cpp
+
+### Step 5: Run the Compiler
+
+./compiler
+
+## 📁 File Structure
+
+💡 Sample Instruction
+
+## Input:
+
+-Define a function called sum that takes two integers and returns their sum
+-Generated Output:
+
+int sum(int a, int b) {
+    return a + b;
+}
+
+## 📨 Contact the Developer
+
+If you have any queries, suggestions, or contributions, feel free to reach out:
+
+📧 Email: aryanbansal182004@gmail.com
+💻 GitHub: NL-to-CPP-Compiler Repo
+🔗 LinkedIn: Aryan Bansal
+
+
+
+
+
+
